@@ -1,4 +1,4 @@
-name: Build Preview version
+tname: Build Preview version
 
 on:
   push:
