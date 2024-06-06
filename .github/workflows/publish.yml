@@ -1,4 +1,4 @@
-name: Release and publish extension
+tname: Release and publish extension
 
 on:
   push:
